@@ -1,0 +1,59 @@
+﻿<!-- Partial view per shtimin e dokumentave -->
+
+
+@using Arkiva.ViewModels
+@model Arkiva.ViewModels.UploadDokument
+
+<div id="divShto" style="display:none;">
+    @using (Html.BeginForm("Shto", "Home", FormMethod.Post, new { insp = "", id = "Up", role = "form", enctype = "multipart/form-data"}))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="m-0">
+            <span class='required-star'>*</span>
+            @Html.LabelFor(Model => Model.Skedari, "Ngarko dokument:", new { @class = "m-t-5" })
+            @Html.TextBoxFor(Model => Model.Skedari, new { @class = "", @type = "file", @multiple = "multiple", @id = "inpdokument", @onchange = "NgarkoDokument(this.files)" })
+            <div id="selectedFiles" class="fields" style="display:none;"></div>
+            @Html.ValidationMessageFor(Model => Model.Skedari, "", new { @class = "text-danger", @style = "display:initial", @id = "skedari-file" })
+        </div>
+        <div class="m-0">
+            <label class="d-block">Fusha indeksimi:</label>
+            <input id="inpFusha" type="text" class="form-control fusha-inline modal-forms pas" placeholder="psh: Lloji" onkeypress="return /[a-z]/i.test(event.key)" onpaste="return false;" />  &nbsp; &nbsp;
+            <span title="+" id="btnShtoFushe" onclick="shtoFushe()" class="btn-blue-add">+</span>
+            <div id="divFushat" name="fushat" class="fields pas" style="display:none" ;></div>
+            @Html.TextBoxFor(Model => Model.Fusha, new { @id = "fushaTeZgjedhura", @style = "display:none;" })
+
+        </div>
+        <div class="m-0">
+            <span class='required-star'>*</span>
+            @Html.LabelFor(Model => Model.Lloji, "Lloji i dokumentit:")
+            @Html.DropDownListFor(Model => Model.Lloji, new SelectList(ViewBag.Lloje, "LlojDokumentiID", "Emer"), "Zgjidh llojin", new { @class = "d-block form-control lloj-pas" })
+            @Html.ValidationMessageFor(Model => Model.Lloji, "", new { @class = "text-danger" })
+        </div>
+        <div class="m-0">
+            @Html.LabelFor(Model => Model.Zyra, "Zyra:", new { @class = "d-block" })
+            @Html.TextBoxFor(Model => Model.Zyra, new { @class = "d-block form-control  pas", @onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)", @autocomplete = "off" })
+            @Html.ValidationMessageFor(Model => Model.Zyra, "", new { @class = "text-danger" })
+        </div>
+        <div class="m-0">
+            @Html.LabelFor(Model => Model.Rafti, "Rafti:", new { @class = "d-block" })
+            @Html.TextBoxFor(Model => Model.Rafti, new { @class = "d-block form-control pas", @onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)", @autocomplete = "off" })
+            @Html.ValidationMessageFor(Model => Model.Rafti, "", new { @class = "text-danger" })
+        </div>
+        <div class="m-0">
+            @Html.LabelFor(Model => Model.Kutia, "Kutia:", new { @class = "d-block" })
+            @Html.TextBoxFor(Model => Model.Kutia, new { @class = "d-block form-control pas", @onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)", @autocomplete = "off" })
+            @Html.ValidationMessageFor(Model => Model.Kutia, "", new { @class = "text-danger" })
+        </div>
+        <div class="m-0" style="display:none;">
+            @Html.TextBoxFor(Model => Model.Inspektimi, new { @class = "d-block form-control", @id = "shtimInspektim" })
+        </div>
+        <div class="m-0 text-center d-block" style="padding-bottom:15px; padding-top:15px;">
+            <input type="submit" class="btn btn-default btn-info btn-sm btn-info btn-blue" id="btnShtoSubmit" value="SHTO">
+        </div>
+    }
+
+</div>
+
+
+

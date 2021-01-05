@@ -1,0 +1,274 @@
+﻿<!-- Partial view per te afishuar folderat ose dokumentat si dhe pathin -->
+
+<link href="~/Content/Site.css" rel="stylesheet" />
+<script>
+    caktivizoFshirje();
+    PastroTeGjithaFushat();
+</script>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <script type="text/javascript">
+        document.getElementById("alertModalFshirje").style.display = "block";
+    </script>
+}
+<!-- div per shfaqjen e pathit te dokumentit/folderit qe eshte hapur ne ate moment -->
+<div style="font-size:22px;" id="divpath" class="col-d">
+    <table id="tblpath" class="table-responsive">
+        <tr>
+
+            <td id="tdpath" colspan="4" style="font-size:22px;">
+
+                @{
+                    if (Model.Niveli < 3)
+                    {
+                        string[] paths = Model.Path.Split('/');
+                        <span oncontextmenu="return false;"> @Ajax.ActionLink(paths[0], "ShfaqFolderat", "Home", new { ElemID = 0, Niv = -1 }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace })</span>
+                        for (int i = 1; i < paths.Length; i++)
+                        {
+                            <span> / </span>
+
+                            <span oncontextmenu="return false;"> @Ajax.ActionLink(paths[i], "ShfaqFolderat", "Home", new { ElemID = (int)Model.PathID[i - 1], Niv = i - 1 }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace })</span>
+                        }
+                    }
+                    else
+                    {
+
+                        string[] paths = Model.Path.Split('/');
+                        <span oncontextmenu="return false;"> @Ajax.ActionLink(paths[0], "ShfaqFolderat", "Home", new { ElemID = 0, Niv = -1 }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace })</span>
+                        for (int i = 1; i < paths.Length - 1; i++)
+                        {
+                            <span> / </span>
+                            <span oncontextmenu="return false;"> @Ajax.ActionLink(paths[i], "ShfaqFolderat", "Home", new { ElemID = (int)Model.PathID[i - 1], Niv = i - 1 }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace })</span>
+                        }
+                        <span> / </span>
+                        @:<span oncontextmenu="return false;">
+                            var j = paths.Length - 1;
+                            @Ajax.ActionLink(paths[j], "ShfaqDokumentat", "Home", new { LlojID = (int)Model.PathID[1], InspID = (int)Model.PathID[2] }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace })
+                        @:</span>
+                    }
+                }
+
+
+            </td>
+        </tr>
+    </table>
+</div>
+<!-- fundi i div per shfaqjen e pathit te dokumentit/folderit qe eshte hapur ne ate moment -->
+<!-- div per shfaqjen e folderave/dokumentave-->
+<div style=" font-size: 22px; padding-top: 2em;
+" class="divFolders">
+    <table id="tblFolders" class="table-responsive full-table">
+        <!-- Niveli ku shfaqen subjektet-->
+        @if (Model.Niveli == 0)
+        {
+            if (Model.Foldera.Count > 0)
+            {
+                var counter = 0;
+
+                foreach (var folder in Model.Foldera)
+                {
+                    if (counter % 4 == 0)
+                    {
+                        @:<tr>
+                        }
+                        <td>
+                            <div style="display:inline">
+                                <input type="checkbox" title="Zgjidh" id="checkbox-@folder.SubjektID" class="btnTipDok checkbox-1 subjekt" onclick="aktivizoShkarkim()" />
+                            </div>
+                            <div style="display:inline">
+                                <span class="folder-doc" onclick="Zgjidh(this)" ondblclick="KlikoAjax(this)"><img class="img-folder" src="~/Content/Images/subject.png" /></span> <br />
+                                @Ajax.ActionLink((string)@folder.Emer, "ShfaqFolderat", "Home", new { ElemID = folder.SubjektID, Niv = 0 }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace }, new { @id = @folder.Emer })
+                            </div>
+                        </td>
+                        counter++;
+                        if (counter % 4 == 0)
+                        {
+                        @:</tr>
+                    }
+                }
+            }
+            else
+            {
+            
+            }
+        }
+        // Niveli ku shfaqen inspektimet per nje subjekt
+        else if (Model.Niveli == 1)
+        {
+            if (Model.Foldera.Count > 0)
+            {
+                var counter = 0;
+
+                foreach (var folder in Model.Foldera)
+                {
+                    if (counter % 4 == 0)
+                    {
+                        @:<tr>
+                        }
+                        <td>
+                            <div style="display:inline">
+                                <input type="checkbox" title="Zgjidh" class="btnTipDok checkbox-1 inspektim" id="checkbox-@folder.InspektimID" onclick="aktivizoShkarkim()" />
+                            </div>
+                            <div style="display:inline">
+                                <span onclick="Zgjidh(this)" ondblclick="KlikoAjax(this)"><img class="img-folder" src="~/Content/Images/inspect.png" /></span> <br />
+                                @Ajax.ActionLink((string)@folder.Emer, "ShfaqFolderat", "Home", new { ElemID = folder.InspektimID, niv = (int)Model.Niveli }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace }, new { @id = @folder.Emer })
+                            </div>
+                        </td>
+                        counter++;
+                        if (counter % 4 == 0)
+                        {
+                        @:</tr>
+                    }
+                }
+            }
+
+            else
+            {
+                <tr>
+                    <td>
+
+                    </td>
+                </tr>
+            }
+        }
+        // Niveli ku shfaqen llojet per nje inspektim
+        else if (Model.Niveli == 2)
+        {
+
+            if (Model.Foldera.Count > 0)
+            {
+                var counter = 0;
+
+                foreach (var folder in Model.Foldera)
+                {
+                    if (counter % 4 == 0)
+                    {
+                        @:<tr>
+                        }
+                        <td>
+                            <div style="display:inline">
+                                <input type="checkbox" title="Zgjidh" class="btnTipDok checkbox-1 lloj lloj-@Model.PathID[1]" id="checkbox-@folder.LlojDokumentiID" onclick="aktivizoShkarkim()" />
+                            </div>
+                            <div style="display:inline">
+                                <span onclick="Zgjidh(this)" ondblclick="KlikoAjax(this)"><img class="img-folder" src="~/Content/Images/type.png" /></span> <br />
+                                @Ajax.ActionLink((string)@folder.Emer, "ShfaqDokumentat", "Home", new { LlojID = folder.LlojDokumentiID, InspID = (int)Model.PathID[1] }, new AjaxOptions { UpdateTargetId = "divFolderat", InsertionMode = InsertionMode.Replace }, new { @id = @folder.Emer })
+                            </div>
+                        </td>
+                        counter++;
+                        if (counter % 4 == 0)
+                        {
+                        @:</tr>
+                    }
+                }
+            }
+            else
+            {
+              
+            }
+        }
+        // Niveli ku shfaqen dokumentat per nje lloj
+        else if (Model.Niveli == 3)
+        {
+
+            if (Model.Foldera.Count > 0)
+            {
+                var counter = 0;
+
+                foreach (var folder in Model.Foldera)
+                {
+                    if (counter % 4 == 0)
+                    {
+                        @:<tr>
+                        }
+                        <td>
+                            <div style="display:inline">
+                                <input type="checkbox" title="Zgjidh" id="checkbox-@folder.DokumentID" class="btnTipDok checkbox-1 dok tip-@folder.Formati" onclick="ZgjidhDokument(this)" />
+                            </div>
+                            <div style="display:inline" ondblclick="shfaqDokumentin(@folder.DokumentID)">
+                                <span onclick="ZgjidhDokument(this)"><img class="img-folder" src="~/Content/Images/@folder.GetImazhi()" title="Data: @folder.DateRegjistrimi.ToString("dd-MM-yyyy") &#10;Kutia:@folder.Kutia, Rafti:@folder.Rafti, Zyra:@folder.Zyra" /></span> <br />
+                                <span onclick="ZgjidhDokument(this)"> @folder.Titull</span>
+
+                            </div>
+                        </td>
+                        counter++;
+                        if (counter % 4 == 0)
+                        {
+                        @:</tr>
+                    }
+                }
+            }
+            else
+            {
+              
+            }
+        }
+
+    </table>
+</div>
+<!-- fundi i div per shfaqjen e folderave/dokumentave-->
+<!-- div per shfaqjen e modalit te perditesimit te dokumentave-->
+<div id="alertModal" class="modal-alert">
+    <div class="modal-content">
+        <div class="modal-header modal-header-1">
+            <span class="text-center"> SUKSES </span>
+            <span class="close" id="close-button-2" style="float:right" onclick="mbyllMesazh()"> X </span>
+        </div>
+        <div class="modal-body modal-content text-left modal-body-1">
+            Fushat e dokumentit u përditësuan me sukses!
+        </div>
+    </div>
+</div>
+<!-- fundi i div per shfaqjen e modalit te perditesimit te dokumentave-->
+<!-- div per shfaqjen e modalit te fshirjes se dokumentave-->
+<div id="alertModalFshirje" class="modal-alert">
+    <div class="modal-content">
+        <div class="modal-header modal-header-1">
+            <span class="text-center"> FSHIRJA DËSHTOI </span>
+            <span class="close" id="close-button-3" style="float:right" onclick="mbyllMesazhFshirjeje()"> X </span>
+        </div>
+        <div class="modal-body modal-content text-left modal-body-1">
+            @ViewBag.Message
+        </div>
+    </div>
+</div>
+<!-- fundi i div per shfaqjen e modalit te fshirjes se dokumentave-->
+<!-- div per shfaqjen e modalit te konfirmimit te fshirjes-->
+<div id="alertModalKonfirmim" class="modal-alert">
+    <div class="modal-content">
+        <div class="modal-header modal-header-1">
+            <span class="text-center"> KONFIRMO FSHIRJEN </span>
+            <span class="close" id="close-button-3" style="float:right" onclick="mbyllMesazhKonfirmimi()"> X </span>
+        </div>
+        <div class="modal-body modal-content text-left modal-body-1">
+            <h6>Jeni i sigurt që dëshironi ta fshini këtë dokument?</h6>
+            <div class="row" style="text-align:right">
+            <div class="col-sm-10"><input type="button" id="konfirmo" class="btn-blue" value="PO" onclick="KonfirmoFshirje()" /></div>
+            <div class="col-sm-2"><input type="button" id="refuzo" class="btn-white" value="JO" onclick="mbyllMesazhKonfirmimi()"/></div>
+        </div>
+        </div>
+    </div>
+</div>
+<!-- fundi i div per shfaqjen e modalit  te konfirmimit te fshirjes-->
+
+
+
+
+
+
+
+<script>
+
+//script per te aktivizuar butonin e shtimit vetem nese ndodhemi ne folderin e nje inspektimi
+
+    if (@Model.Niveli== 2) {
+        document.getElementById("btnShto").disabled = false;
+    }
+    else {
+        document.getElementById("btnShto").disabled = true;
+        $("#divShto").hide();
+    }
+
+
+
+</script>

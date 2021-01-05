@@ -1,0 +1,698 @@
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Arkiva.dll.config
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Arkiva.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Arkiva.pdb
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\csc.exe
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\csc.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\csc.rsp
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\csi.exe
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\csi.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\csi.rsp
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.AppContext.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Console.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Net.Http.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.ValueTuple.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\vbc.exe
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\vbc.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\vbc.rsp
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\VBCSCompiler.exe
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Antlr3.Runtime.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\EntityFramework.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\EntityFramework.SqlServer.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Newtonsoft.Json.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Owin.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Helpers.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Mvc.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Optimization.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Razor.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.WebPages.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.WebPages.Razor.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\WebGrease.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\EntityFramework.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\EntityFramework.SqlServer.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Helpers.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Mvc.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Optimization.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.Razor.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.WebPages.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\System.Web.WebPages.Razor.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Newtonsoft.Json.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Antlr3.Runtime.pdb
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.csprojAssemblyReference.cache
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.Migrations.InitialCreate.resources
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.Migrations.dbupdate.resources
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.Migrations.UpdateDokumentModel.resources
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.Migrations.newdok.resources
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.Migrations.changefushaindeksimi.resources
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.Migrations.indexes.resources
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.csproj.GenerateResource.cache
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.csproj.CoreCompileInputs.cache
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.csproj.CopyComplete
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.dll
+C:\Users\ervisa\Desktop\ggarkiva\arkiva\obj\Debug\Arkiva.pdb
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Arkiva.dll.config
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Arkiva.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Arkiva.pdb
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\csc.exe
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\csc.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\csc.rsp
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\csi.exe
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\csi.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\csi.rsp
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.AppContext.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Console.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Http.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.ValueTuple.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\vbc.rsp
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\EntityFramework.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Owin.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Helpers.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Mvc.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Optimization.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Razor.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.WebPages.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\WebGrease.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\EntityFramework.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Helpers.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Mvc.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Optimization.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.Razor.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.WebPages.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.pdb
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csprojAssemblyReference.cache
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations.InitialCreate.resources
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations.dbupdate.resources
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations.UpdateDokumentModel.resources
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations.newdok.resources
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations.changefushaindeksimi.resources
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations.indexes.resources
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.GenerateResource.cache
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CoreCompileInputs.cache
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CopyComplete
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.dll
+C:\Users\ervisa\Desktop\ggarkiva\dsgrt\arkivaperfunduar\arkiva\obj\Debug\Arkiva.pdb
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Arkiva.dll.config
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Arkiva.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Arkiva.pdb
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\csc.exe
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\csc.exe.config
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\csc.rsp
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\csi.exe
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\csi.exe.config
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\csi.rsp
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.AppContext.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Console.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Http.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.ValueTuple.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe.config
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\vbc.rsp
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\EntityFramework.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Owin.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.IO.Compression.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.IO.Compression.ZipFile.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Helpers.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Mvc.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Optimization.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Razor.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.WebPages.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\WebGrease.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\EntityFramework.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Helpers.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Mvc.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Optimization.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.Razor.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.WebPages.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.pdb
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csprojAssemblyReference.cache
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CoreCompileInputs.cache
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CopyComplete
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\obj\Debug\Arkiva.dll
+C:\Users\WB-087\Desktop\ervisaarkiva\New folder (2)\arkivaperfunduar\arkiva\obj\Debug\Arkiva.pdb
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Arkiva.dll.config
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Arkiva.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Arkiva.pdb
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\csc.exe
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\csc.exe.config
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\csc.rsp
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\csi.exe
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\csi.exe.config
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\csi.rsp
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.AppContext.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Console.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Http.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.ValueTuple.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe.config
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\vbc.rsp
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\EntityFramework.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Owin.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.IO.Compression.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.IO.Compression.ZipFile.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Helpers.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Mvc.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Optimization.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Razor.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.WebPages.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\WebGrease.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\EntityFramework.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Helpers.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Mvc.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Optimization.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.Razor.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.WebPages.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.pdb
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csprojAssemblyReference.cache
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CoreCompileInputs.cache
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CopyComplete
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\obj\Debug\Arkiva.dll
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\obj\Debug\Arkiva.pdb
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations._1.resources
+C:\Users\WB-087\Desktop\arkiva\arkiva\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.GenerateResource.cache
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Arkiva.dll.config
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Arkiva.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Arkiva.pdb
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\csc.exe
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\csc.exe.config
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\csc.rsp
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\csi.exe
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\csi.exe.config
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\csi.rsp
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.AppContext.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Console.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Http.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.ValueTuple.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe.config
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\vbc.rsp
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\EntityFramework.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Owin.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Helpers.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Mvc.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Optimization.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Razor.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.WebPages.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\WebGrease.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\EntityFramework.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Helpers.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Mvc.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Optimization.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.Razor.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.WebPages.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.pdb
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csprojAssemblyReference.cache
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations._1.resources
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.GenerateResource.cache
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CoreCompileInputs.cache
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CopyComplete
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\obj\Debug\Arkiva.dll
+C:\Users\ervisa\Desktop\arkiva8\arkiva date 8\arkivaperfunduar\arkiva\obj\Debug\Arkiva.pdb
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Arkiva.dll.config
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Arkiva.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Arkiva.pdb
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\csc.exe
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\csc.exe.config
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\csc.rsp
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\csi.exe
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\csi.exe.config
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\csi.rsp
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.AppContext.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Console.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Http.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.ValueTuple.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\vbc.exe.config
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\vbc.rsp
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\EntityFramework.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Owin.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.IO.Compression.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.IO.Compression.ZipFile.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Helpers.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Mvc.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Optimization.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Razor.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.WebPages.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\WebGrease.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\EntityFramework.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\EntityFramework.SqlServer.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Helpers.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Mvc.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Optimization.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.Razor.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.WebPages.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\System.Web.WebPages.Razor.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Newtonsoft.Json.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Antlr3.Runtime.pdb
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csprojAssemblyReference.cache
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\obj\Debug\Arkiva.Migrations._1.resources
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.GenerateResource.cache
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CoreCompileInputs.cache
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\obj\Debug\Arkiva.csproj.CopyComplete
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\obj\Debug\Arkiva.dll
+C:\Users\ervisa\Desktop\arkiv\arkivaperfunduar\arkiva\obj\Debug\Arkiva.pdb

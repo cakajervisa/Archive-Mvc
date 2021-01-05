@@ -1,0 +1,95 @@
+﻿<!-- Partial view per te shfaqur filtrin-->
+
+@using Arkiva.ViewModels
+@model Arkiva.ViewModels.Filter
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<!-- div per shfaqjen e filtrit per dokumentat/folderat-->
+    <div id="divfilter" >
+        @using (Ajax.BeginForm("Filtro", "Home", new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "divFolderat" }))
+        {
+            @Html.AntiForgeryToken()
+            <div class="m-0">
+                @Html.LabelFor(Model => Model.Subjekti, "Subjekti:", new { @class = "d-block" })
+                @Html.TextBoxFor(Model => Model.Subjekti, new { @class = "d-block form-control", @placeholder = "Subjekti", onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)" , @autocomplete = "off" })
+            </div>
+
+            <div class="m-0">
+                @Html.LabelFor(Model => Model.Inspektimi, "Numri i inspektimit:", new { @class = "d-block" })
+                @Html.TextBoxFor(Model => Model.Inspektimi, new { @class = "d-block form-control", @placeholder = "Numri i inspektimit:", @type = "number", @min = "0", @onpaste = "return false;", @autocomplete = "off" })
+            </div>
+
+            <div class="m-0">
+                @Html.LabelFor(Model => Model.Lloji, "Lloji i dokumentit:", new { @class = "d-block" })
+                <select id="llojDok" class="form-control" onchange="ShtoLlojin()">
+                    <option value="1">
+                        Zgjidh llojin e dokumentit
+                    </option>
+                    @foreach (var lloj in ViewBag.Lloje)
+                    {
+                        <option value="@lloj.LlojDokumentiID">@lloj.Emer</option>
+                    }
+
+                </select>
+                @Html.TextBoxFor(Model => Model.Lloji, new { @id = "teZgjedhura", @style = "display:none;" })
+                <div id="LlojetFilter" class="fieldsFilter" style="display:none;">
+
+                </div>
+            </div>
+
+            <div class="m-0">
+                @Html.LabelFor(Model => Model.Fusha, "Fusha indeksimi:", new { @class = "d-block" })
+                @Html.TextBoxFor(Model => Model.Fusha, new { @class = "d-block form-control", @placeholder = "Fusha", @autocomplete = "off" })
+            </div>
+
+            <div class="m-0">
+                @Html.LabelFor(Model => Model.Dokumenti, "Emri i dokumentit:", new { @class = "d-block" })
+                @Html.TextBoxFor(Model => Model.Dokumenti, new { @placeholder="Emri", @class = "d-block form-control", @onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)", @autocomplete = "off" })
+            </div>
+
+            <div class="m-0">
+                <label class="d-block">Vendndodhja fizike:</label>
+                <table id="tblvendndodhja">
+                    <tr>
+                        <td class="m-3">
+                            @Html.TextBoxFor(Model => Model.Zyra, new { @class = "form-inline form-control fizike", @placeholder = "Zyra", @onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)" , @autocomplete = "off" })
+                        </td>
+                        <td class="m-3 middletd">
+                            @Html.TextBoxFor(Model => Model.Rafti, new { @class = "form-inline form-control fizike", @placeholder = "Rafti", @onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)", @autocomplete = "off" })
+                        </td>
+                        <td class="m-3">
+                            @Html.TextBoxFor(Model => Model.Kutia, new { @class = "form-inline form-control fizike", @placeholder = "Kutia", @onpaste = "return false;", @onkeypress = "return /[a-zA-Z0-9-_ ]/.test(event.key)", @autocomplete = "off" })
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="m-0">
+                <label class="d-block">Periudha e regjistrimit:</label>
+                @Html.TextBoxFor(Model => Model.DataNga, "{ 0:dd.MM.yyyy}", new { @class = "form-inline form-control form-dt dt", @id = "data1", @title = "Nga", onchange = "krahasoDatat()", @onpaste = "return false;", @placeholder = "dd.mm.vvvv", @autocomplete = "off" })
+                -
+                @Html.TextBoxFor(Model => Model.DataTek, "{ 0:dd.MM.yyyy}", new { @class = "form-inline form-control form-dt dt", @id = "data2", @title = "Tek", onchange = "krahasoDatat()", @onpaste = "return false;", @placeholder = "dd.mm.vvvv", @autocomplete = "off" })
+            </div>
+            <div class="m-0">
+                <label class="d-block div-errors" id="lblError"> </label>
+            </div>
+            <div class="m-0 text-center" style="padding-bottom: 20px;">
+                <div class="m-0 text-center" style="padding-bottom:15px; padding-top:15px; width:49%; display:inline">
+                    <button class="btn btn-default btn-info btn-sm btn-info btn-blue" type="submit"> KËRKO </button>
+                </div>
+                <div class="m-0 text-center" style="padding-bottom:15px; padding-top:15px; width:49%; display:inline">
+                    <span class="btn btn-default btn-info btn-sm btn-info btn-white" onclick="PastroFushat()"> PASTRO </span>
+
+                </div>
+            </div>
+
+        }
+
+    </div>
+<!-- fundi i div per shfaqjen e filtrit per dokumentat/folderat-->
+
+<script>
+    //scripti per shfaqjen e dates ne shqip
+    $.datepicker.setDefaults($.datepicker.regional["sq"]);
+    $(".dt").datepicker();
+</script>

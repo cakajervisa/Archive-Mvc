@@ -1,0 +1,670 @@
+﻿body {
+
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-color: #eeeeee;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists
+   will truncate terms that are too long to fit in the left column
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+
+.fshirje{
+cursor:pointer;
+}
+
+
+.btn-shkarko {
+    float: right;
+    margin-right: -15px;
+    margin-top: 50px;
+    width: 46.6px;
+}
+
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.ruaj-modal {
+    margin-left: 10px;
+    margin-right: -10px;
+    float:right;
+}
+
+.btn-ruaj-div {
+    margin: 0 !important;
+    margin-right: 10px !important;
+    padding-top:10px;
+}
+
+#skedari-file{
+    max-height:50px;
+    overflow:scroll;
+}
+
+#inpdokument {
+    visibility: hidden;
+    position: relative;
+    display: inline;
+    margin: 0;
+    float: right;
+    width: 40px !important;
+}
+
+
+div#selectedFiles {
+    width: 100%;
+}
+
+.m-t-5 {
+    margin-top: 10px;
+}
+
+#inpdokument:before {
+    display: inline;
+    position: relative;
+    width: 35px;
+    font-size: 20px;
+    right: 0;
+    visibility: visible;
+    content: "+";
+    background: #62b2ca;
+    padding: 3px 12px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #d9edf7;
+    color: #286b80;
+    font-size: 2rem;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    float: right;
+    height: 34px;
+}
+
+
+#inpdokument:hover {
+    cursor: pointer;
+}
+
+
+
+.ui-state-active {
+    background: #62b2ca !important;
+    border: 1.5px solid #265665 !important;
+    color: white !important;
+}
+
+.ui-state-highlight {
+    background: #cccccc !important;
+    border: 1px solid #23414a !important;
+}
+
+.ui-state-default:hover {
+    border: 1px solid #62b2ca !important;
+}
+
+#lblInp {
+    font-weight: normal;
+}
+
+.p-0 {
+    padding: 0px !important;
+}
+
+
+#tblFolders {
+    table-layout: fixed;
+}
+
+    #tblFolders td {
+        padding-top: 2.5rem;
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+        width: 25%;
+    }
+
+.fields {
+    max-height: 100px;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin-top: 10px;
+}
+
+.fieldsFilter {
+    max-height: 60px;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin-top: 10px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 4px grey;
+    border-radius: 4px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #0094ff ;
+    border-radius: 4px;
+}
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #45a1bb;
+    }
+
+.middletd {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.form-dt {
+    text-align: right;
+    width: 45%;
+    display: inline;
+    padding: 6px;
+}
+
+.overflow-div{
+    overflow:scroll;
+    overflow-y: auto;
+    overflow-x: hidden;
+   
+  
+}
+
+#lblNgarkoPlus {
+    margin-top: -5px;
+}
+
+#divikona {
+    padding-left:-40px;
+    padding: 10px;
+    margin-top: 20px;
+    background: white;
+    border:0px solid;
+  
+}
+
+#divfilter {
+    padding: 0px 10px 0px 10px;
+    background: white;
+    margin-top: 20px;
+   border:0px solid;
+   
+ 
+}
+
+#divShto {
+    padding: 10px;
+    background: white;
+    margin-top: 20px;
+    border: 3px solid;
+   
+}
+
+.jumbotron-middle {
+    position: unset;
+    vertical-align: middle;
+    margin-top: 4vh;
+    margin-bottom: auto;
+    height: 82vh;
+    padding: 0 !important;
+    background-color: white;
+    overflow: hidden;
+}
+
+    .jumbotron-middle > .row {
+        height: 100%;
+        overflow: hidden;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+        .jumbotron-middle > .row > div {
+            height: 100%;
+        }
+
+        .jumbotron-middle > .row > .col-sm-3 {
+         
+        }
+
+
+
+.img-folder {
+    width: 5.5rem;
+}
+
+
+#divcheckbox {
+    display: inline;
+}
+
+.full-table {
+    width: 100%;
+    text-align: left;
+}
+
+.m-0 {
+    margin: 0 !important;
+    padding-top: 1.5rem !important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p {
+    height: 5vh;
+    margin-bottom: 0;
+    vertical-align: middle;
+    text-align: right;
+    padding: 2vh;
+}
+
+
+.nav-blue {
+    background-color: lightblue;
+    height: 5vh;
+}
+
+.d-block {
+    display: block;
+}
+
+.nav-blue-a {
+    color: white !important;
+}
+
+.label-center {
+    height: 34px;
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+}
+
+#registerLink, #dil, #Mireseerdhe, #loginLink, #logoutForm, .navbar-brand {
+    color: white;
+}
+
+    #registerLink:hover, #dil:hover, #Mireseerdhe:hover, #loginLink:hover {
+        font-size: larger;
+        color: white;
+        background-color: #0094ff;
+    }
+
+
+.btn-blue {
+    background-color: lightblue;
+    color: white;
+}
+
+.required-star {
+    margin-left: -8px;
+    color: red;
+}
+
+    .required-star:hover {
+        cursor: default;
+    }
+
+
+
+
+.btn-blue-add {
+    background-color: lightblue;
+    color: white;
+    background-color: lightblue;
+    color: #286b80;
+    padding: 3px 12px;
+    font-size: 2rem;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    float: right;
+}
+
+.btn-blue:hover {
+    background-color: #295563;
+    color: white;
+}
+
+
+.btn-white {
+    background-color: white;
+    color: #62b2ca;
+}
+
+    .btn-white:hover {
+        background-color: #295563;
+        color: white;
+    }
+
+.btn-grey {
+    background-color: #aaaaaa;
+    color: #000002;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    background-color: #cccccc;
+    min-height: 50px;
+    margin-bottom: 0px;
+    height: 5vh;
+}
+
+.modal-header-1 {
+    background-color: #0094ff;
+    color: white;
+    text-transform: capitalize;
+}
+
+modal-body-1 {
+    background-color: #0094ff;
+    color: white;
+    text-transform: capitalize;
+}
+
+.modal-1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+
+.modal-2 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 70vh;
+    width: 50vw;
+}
+
+.modal-body-1 {
+}
+
+.modal-div {
+    padding: 30px;
+    padding-left: 0px;
+}
+
+
+.selected-preview{
+    font-weight:bold;
+    color:black;
+    cursor:pointer;}
+
+.to-preview {
+    font-weight: normal;
+    color: grey;
+    cursor: pointer;
+}
+
+
+#prev-r, #prev-k, #prev-z {
+    text-transform: uppercase;
+}
+
+
+.move {
+    background-color: white;
+    color: #0094ff;
+    font-size: 12px;
+    padding: 0 10px;
+    text-align: left;
+    border-right: 1px solid;
+}
+
+.modal-header-1 span {
+    padding-left: 15px;
+}
+
+#divFushe {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    color: #888888;
+    max-width: 250px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#plugin {
+    padding: 0;
+    height: 50vh;
+    width: 50vw;
+}
+
+.modal-ruaj {
+    padding: 30px !important;
+    margin-top: 20px;
+}
+
+.pdf {
+    padding: 0;
+    width: 100%;
+    height: 60vh;
+}
+
+#preview {
+    width: 100%;
+    margin: 0;
+}
+
+#prev{
+    text-align:center;
+}
+
+#viewDoc {
+    width: 100%;
+    height: 40vh;
+    border:none;
+    margin-top:10px;
+}
+
+#divpath {
+    padding-top: 25px;
+}
+
+.fusha-inline {
+    display: inline;
+}
+
+
+#viewDoc > html > body > img {
+    width: 100%;
+}
+
+
+.btn-shto {
+    height: 34px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 50px;
+    font-size: larger;
+    margin-right: -50px;
+    margin-left: 20px;
+    border-color:none;
+}
+
+
+#konfirmo{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 7px;
+}
+
+#refuzo {
+    border: 1px solid #62b2ca;
+    border-radius: 5px;
+    padding: 5px 7px;
+}
+
+.btn-ruaj {
+    width: 20%;
+    margin-top: 10px;
+}
+
+
+@media (min-width: 1501px) {
+
+    .modal-forms, #modal-table {
+        max-width: 250px !important;
+        width: 90% !important;
+    }
+
+    .modal-1 {
+        width: 580px;
+    }
+}
+
+@media (max-width: 1500px) {
+
+    .modal-forms, #modal-table {
+        max-width: 250px !important;
+        width: 90% !important;
+    }
+
+    .modal-1 {
+        width: 580px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .modal-forms, #modal-table {
+        max-width: 250px !important;
+        width: 90% !important;
+    }
+
+    .modal-1 {
+        width: 580px;
+    }
+}
+
+.modal-label span {
+    font-weight: normal;
+    font-size: small;
+}
+
+.modal-forms-nr {
+    text-align: right;
+}
+
+.login-container {
+    padding-left: 50%;
+    padding-top: 10%;
+    transform: translate(-20%);
+}
+
+#RememberMe {
+    margin-left: 0 !important;
+}
+
+.register-container {
+    padding-left: 50%;
+    padding-top: 10%;
+    transform: translate(-20%);
+}
+
+#selectedFiles, #divFushat, #LlojetFilter {
+    padding: 2px 10px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    color: #888888;
+    max-width: 250px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+span#btnShtoFushe:hover {
+    cursor: pointer;
+}
+
+#btnShtoFushe {
+    height: 34px;
+}
+
+    #btnShtoFushe :hover {
+        cursor: pointer;
+    }
+
+
+.lloje {
+    font-weight: normal;
+    margin: 0;
+}
+
+.x {
+    color: #990000;
+}
+
+.div-errors {
+    font-size: small;
+    font-weight: normal;
+    font-style: italic;
+    color: darkred;
+}
+
+.div-filter-errors {
+    max-height: 80px;
+    overflow: scroll;
+    overflow-x: hidden;
+    font-weight: normal;
+    color: #dd0000;
+}
+
+#alertModal{
+    width:30vw;
+    display:none;
+}
+
+#alertModalFshirje {
+    width: 30vw;
+    display: none;
+}
+
+#alertModalKonfirmim {
+    width: 30vw;
+    display: none;
+}
+
+
+#inpFusha {
+    width: 66% !important;
+}

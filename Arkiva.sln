@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arkiva", "Arkiva.csproj", "{B6EE222A-AF60-426F-A1FD-5C5CD29D948B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6EE222A-AF60-426F-A1FD-5C5CD29D948B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EE222A-AF60-426F-A1FD-5C5CD29D948B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EE222A-AF60-426F-A1FD-5C5CD29D948B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EE222A-AF60-426F-A1FD-5C5CD29D948B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2E4D88-90FC-42D9-B7D5-9D3680582D0B}
+	EndGlobalSection
+EndGlobal

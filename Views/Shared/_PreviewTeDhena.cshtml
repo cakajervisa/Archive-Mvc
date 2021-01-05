@@ -1,0 +1,160 @@
+﻿<!-- Partial view per te shfaqur modalin e previewse se dokumentit -->
+
+<link href="~/Content/Site.css" rel="stylesheet" />
+@model dynamic
+
+
+<!--div per shfaqjen e modalit te shfaqjes se preview-se se dokumentit-->
+
+<div class="modal-header modal-header-1">
+    <span class="text-center"> SHIKO DOKUMENT</span>
+    <span class="close" id="close-button" style="float:right"> X </span>
+</div>
+<div class="modal-body modal-content text-left modal-body-1">
+    <table id="preview">
+        <tr style="margin-bottom:10px;">
+            <td class="move col-sm-4" id="DokTeTjere">
+                @{
+                    foreach (var dok in @Model.Dokumenta)
+                    {
+                        if (dok.DokumentID == Model.ActID)
+                        {
+                            <span class="selected-preview btnTipDok checkbox-1 dok" id="span-@dok.DokumentID" onclick="changePreview(@dok.DokumentID)">&diams; @dok.Titull</span><br>
+                        }
+                        else
+                        {
+                            <span class="to-preview btnTipDok checkbox-1 dok" id="span-@dok.DokumentID" onclick="changePreview(@dok.DokumentID)">&diams; @dok.Titull</span><br>
+                        }
+                    }
+                }
+            </td>
+            <td class="col-sm-8" style="padding:10px 0px" id="DokTeDhena">
+                <div class="row" style="padding-bottom:10px">
+                    <div class="col-sm-12">
+                        <div class="col-sm-4">
+                            <label>Zyra</label>
+                            <input type="text" class="form-control" maxlength="10" onkeypress="return /[a-zA-Z0-9-_ ]/.test(event.key)" id="prev-z" value="@Model.Z" />
+                        </div>
+                        <div class="col-sm-4">
+                            <label>Rafti</label>
+                            <input type="text" id="prev-r" class="form-control" maxlength="10" onkeypress="return /[a-zA-Z0-9-_ ]/.test(event.key)" value="@Model.R" />
+                        </div>
+                        <div class="col-sm-4">
+                            <label>Kutia</label>
+                            <input type="text" id="prev-k" class="form-control" maxlength="10" onkeypress="return /[a-zA-Z0-9-_ ]/.test(event.key)" value="@Model.K" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="  margin-left: 0; border-top: 1px solid #62b2ca; margin-right:5px;    padding-top: 10px">
+                    <div class="col-sm-12">
+                        <label>Fusha ekzistuese:</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12" style="padding-bottom:10px">
+
+                        <div id="prev-fusha">
+                            @foreach (var f in Model.Fushat)
+                            {
+                                <div class="col-sm-4">@f<span id="@f" class="text-danger fshirje" onclick="HiqFusheDok('@f')"> X</span></div>
+
+                            }
+                            <div id="Hequr" style="display:none;"></div>
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row" style="margin-left:0; border-top:1px solid #62b2ca; margin-right:5px; padding:10px 0px">
+
+                    <div class="col-sm-4" style="padding-top:5px;">
+                        <label>Fusha të reja:</label>
+                    </div>
+                    <div class="col-sm-4"> <input type="text" maxlength="20" onkeypress="return /[a-z]/i.test(event.key)" class="form-control" id="txtFusheERe" /></div>
+                    <div class="col-sm-4"><input type="button" onclick="shtoFusheTeRe()" title="Shto fushë" class="btn-blue-add" style="float:left" value="+" /></div>
+
+
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+
+                        <div id="prev-fusha-re">
+
+
+
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row btn-ruaj-div">
+                    <input type="button" class="btn btn-default btn-info btn-sm btn-info btn-blue ruaj-modal" value="Ruaj" title="Ruaj ndryshimet" onclick="ruajNdryshimet(@Model.ActID)">
+                </div>
+
+            </td>
+
+        </tr>
+
+
+        <tr>
+            <td id="prev" colspan="3">
+
+                @if (@Model.ActFormat.Contains("xls") || @Model.ActFormat.Contains("xlsx") || @Model.ActFormat.Contains("doc") || @Model.ActFormat.Contains("docx"))
+                {
+                    <div class="col-sm-11"><iframe id="viewDoc" src="./Content/StaticText.html"></iframe></div>
+                    <div class="col-sm-1"> <input type="button" class="btn btn-default btn-info btn-sm btn-info btn-blue btn-shkarko" value="⇣" title="Shkarko" onclick="shkarkoDokumentinWE(@Model.ActID)" /></div>
+
+                }
+                else
+                {
+
+                    <iframe id="viewDoc" src="/Home/ShikoDokument?dID=@Model.ActID"></iframe>
+
+                }
+
+            </td>
+
+        </tr>
+    </table>
+</div>
+<!--fundi i div per shfaqjen e modalit te shfaqjes se preview-se se dokumentit-->
+
+
+
+<script>
+    function shikoDokument() {
+
+        var modal1 = document.getElementById("ModalShikoDokument");
+        var blur1 = document.getElementsByClassName("jumbotron")[0];
+
+
+        blur1.style.filter = "blur(30px)";
+        blur1.style.filter = "opacity(30%)";
+        modal1.style.display = "block";
+        window.onclick = function (event) {
+
+            if (event.target == modal1) {
+                modal1.style.display = "none";
+                blur1.style.filter = "blur(0px)";
+                blur1.style.filter = "opacity(100%)";
+            }
+        }
+
+
+    }
+    var sp1 = document.getElementById("close-button");
+
+    var modal1 = document.getElementById("ModalShikoDokument");
+    var blur1 = document.getElementsByClassName("jumbotron")[0];
+    sp1.onclick = function () {
+
+        blur1.style.filter = "blur(0px)";
+        blur1.style.filter = "opacity(100%)";
+        modal1.style.display = "none";
+    }
+
+
+
+
+
+</script>
